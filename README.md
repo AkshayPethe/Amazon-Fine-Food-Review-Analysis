@@ -52,11 +52,9 @@ To run the project, you need Python and the required dependencies installed on y
 - NLTK (Natural Language Toolkit)
 - SQLite3
 
-## Installation
 
-1. Clone the repository:
 
-git clone https:[//github.com/your-username/amazon-fine-food-review-analysis.git](https://github.com/AkshayPethe/Amazon-Fine-Food-Review-Analysis/blob/main/Amazon%20Fine%20Food%20Review%20Analysis.ipynb)
+
 
 
 

@@ -52,6 +52,7 @@ To run the project, you need Python and the required dependencies installed on y
 - NLTK (Natural Language Toolkit)
 - SQLite3
 
+Clone Repository : git clone
 
 
 

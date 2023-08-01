@@ -27,7 +27,7 @@ The dataset used for this project is the "Amazon Fine Food Reviews" dataset, whi
 
 ## Methodology
 
-1. **Data Preprocessing**: Cleaning and preparing the text data, including removing special characters, converting text to lowercase, removing stopwords, and applying stemming/lemmatization.
+1. **Data Preprocessing**: Cleaning and preparing the text data, including removing special characters, converting text to lowercase, removing stopwords, and applying stemming/lemmatization and removing words doesn't exist in dictionary.
 
 2. **Feature Extraction**: Creating the Bag of Words and N-Gram TFIDF representations of the reviews.
 

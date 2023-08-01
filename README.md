@@ -19,7 +19,7 @@ This project focuses on sentiment analysis of Amazon Fine Food Reviews using Nat
 
 ## Project Overview
 
-Sentiment analysis is a valuable application of NLP, especially in the context of product reviews. Understanding customer sentiments can help businesses make data-driven decisions to improve their products and services. In this project, we analyze the Amazon Fine Food Reviews dataset to build machine learning models that can classify reviews as either negative or positive.
+Sentiment analysis is a valuable application of NLP, especially in the context of product reviews. Understanding customer sentiments can help businesses make data-driven decisions to improve their products and services. In this project, we analyze the Amazon Fine Food Reviews dataset to build machine learning models that can classify reviews as either negative or positive.Helps in making better recommendation based decisions for the existing and the new users by predicting review sentiment given by the customer. 
 
 ## Data
 
